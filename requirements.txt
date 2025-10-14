@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+langchain-community    
+langchain-huggingface
+langchain-ollama
+langsmith
+langchain-cli
+torch
+sentence-transformers
+faiss-cpu
+scikit-learn
+PyPDF
+python-dotenv
